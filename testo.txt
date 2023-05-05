@@ -1,0 +1,5 @@
+1. creare input con numero max di lettere per generare la password.
+2. Prendere questo numero, ciclo loop, e ad ogni incremento generare una nuova lettera.
+3. creare una stringa contenente tutte le lettere dell'alfabeto + numeri + lettere grassetto
+4.creare un ciclo per verificare che l'array non contenga le lettere già pushate nell'array.
+5.mostrare a video
